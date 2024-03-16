@@ -1,0 +1,2 @@
+# ChurchSphere
+Managing Church Activities
